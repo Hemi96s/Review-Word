@@ -1,0 +1,22 @@
+#perWord {
+    white-space: pre-line; /* 保留換行符號顯示 */
+    font-size: 18px;
+    line-height: 1.8;
+    text-align: center;
+  }
+
+  #pressBtn{
+    margin-top: 20px;
+    padding: 5px 25px 5px 25px;
+  }
+
+  .container{
+  
+    width: 800px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+  }
